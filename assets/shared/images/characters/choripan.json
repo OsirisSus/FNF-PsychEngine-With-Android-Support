@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "CHORIPAN LEFT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "CHORIPAN DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "CHORIPAN UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "CHORIPAN RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "CHORIPAN dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CHORIPAN",
+	"position": [
+		-500,
+		-50
+	],
+	"healthicon": "CHORIPAN",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		48,
+		39
+	],
+	"camera_position": [
+		500,
+		250
+	],
+	"sing_duration": 6.1,
+	"scale": 0.3
+}
